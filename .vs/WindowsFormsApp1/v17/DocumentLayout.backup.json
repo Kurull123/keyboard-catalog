@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|c:\\users\\admin\\source\\repos\\windowsformsapp1\\fkeyboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|solutionrelative:fkeyboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|c:\\users\\admin\\source\\repos\\windowsformsapp1\\fkeyboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|solutionrelative:fkeyboards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fkeyboardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|solutionrelative:fkeyboardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|c:\\users\\admin\\source\\repos\\windowsformsapp1\\keyboardsdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|solutionrelative:keyboardsdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|c:\\users\\admin\\source\\repos\\windowsformsapp1\\fmanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|solutionrelative:fmanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fmanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|solutionrelative:fmanufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|solutionrelative:fsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285B63B2-F6DC-4230-A236-3C6C514362AA}|WindowsFormsApp1.csproj|solutionrelative:fconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fKeyboards.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fKeyboards.cs",
+              "RelativeDocumentMoniker": "fKeyboards.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fKeyboards.cs [Design]*",
+              "RelativeToolTip": "fKeyboards.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:05:30.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fManufacturer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fManufacturer.cs",
+              "RelativeDocumentMoniker": "fManufacturer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fManufacturer.cs [Design]",
+              "RelativeToolTip": "fManufacturer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T06:02:58.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyboardsDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\KeyboardsDataSet.xsd",
+              "RelativeDocumentMoniker": "KeyboardsDataSet.xsd",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\KeyboardsDataSet.xsd",
+              "RelativeToolTip": "KeyboardsDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-04-28T05:57:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fConnection.cs",
+              "RelativeDocumentMoniker": "fConnection.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fConnection.cs",
+              "RelativeToolTip": "fConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:53:15.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fSize.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fSize.cs",
+              "RelativeDocumentMoniker": "fSize.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fSize.cs",
+              "RelativeToolTip": "fSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:53:13.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fKeyboardType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fKeyboardType.cs",
+              "RelativeDocumentMoniker": "fKeyboardType.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fKeyboardType.cs",
+              "RelativeToolTip": "fKeyboardType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:53:11.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fManufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fManufacturer.cs",
+              "RelativeDocumentMoniker": "fManufacturer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fManufacturer.cs",
+              "RelativeToolTip": "fManufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:53:09.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fKeyboards.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fKeyboards.cs",
+              "RelativeDocumentMoniker": "fKeyboards.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WindowsFormsApp1\\fKeyboards.cs*",
+              "RelativeToolTip": "fKeyboards.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:53:06.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
